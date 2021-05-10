@@ -1,4 +1,4 @@
-# CoalTerminalUtilization
+# Coal Terminal Utilization Analysis Project
 Coal Terminal Utilization, In Tableau
 
 <ol>
